@@ -1,7 +1,13 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
+import Navbar from "./Components/Navbar";
 
 const App = () => {
-  return <div>App</div>;
+  return (
+    <>
+      <Navbar />
+    </>
+  );
 };
 
 export default App;
