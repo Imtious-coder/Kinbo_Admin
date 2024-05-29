@@ -1,1 +1,3 @@
-# Kinbo_Admin
+# React + Vite
+
+#### npm create vite@latest . || npm i || 
